@@ -1,0 +1,18 @@
+[
+  {
+    "dataType": "Float8",
+    "name": "Amps",
+    "opcItemPath": "ns\u003d1;s\u003d[demo]Overview/Motor 1/Amps",
+    "opcServer": "Ignition OPC UA Server",
+    "tagType": "AtomicTag",
+    "valueSource": "opc"
+  },
+  {
+    "dataType": "Int2",
+    "name": "HOA",
+    "opcItemPath": "ns\u003d1;s\u003d[demo]Overview/Motor 1/HOA",
+    "opcServer": "Ignition OPC UA Server",
+    "tagType": "AtomicTag",
+    "valueSource": "opc"
+  }
+]
