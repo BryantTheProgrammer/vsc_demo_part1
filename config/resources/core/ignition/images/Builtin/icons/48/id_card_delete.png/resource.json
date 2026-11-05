@@ -1,0 +1,20 @@
+{
+  "scope": "A",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "id_card_delete.png"
+  ],
+  "attributes": {
+    "width": 48,
+    "format": "PNG",
+    "lastModification": {
+      "actor": "import",
+      "timestamp": "2026-11-05T20:18:01Z"
+    },
+    "size": 1247,
+    "lastModificationSignature": "de83c2736143c84ae6c9b7ec91f3bc03cc4f7b2d542e0adfcfb7624363b6403e",
+    "height": 48
+  }
+}
